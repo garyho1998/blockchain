@@ -1,0 +1,174 @@
+Chain0: 
+Block(0):
+{
+                                d9e8637e4d178404f58506a879f49ff1b75bf4b5c87ae35ccafeccebb0b6ea1b                                                                                                                              
+                [2020-05-11 23:54:32.928] Alice -> Bob: 10                                                                                                                            
+}
+
+
+
+Chain1: 
+Block(0):
+{
+                                d9e8637e4d178404f58506a879f49ff1b75bf4b5c87ae35ccafeccebb0b6ea1b                                                                                                                              
+                [2020-05-11 23:54:32.928] Alice -> Bob: 10                                                                                                                            
+}
+|
+V
+Block(1):
+{
+                                0cbaf3c7b905892975a5bae362f0ee61a6e36229ea77c679051bd6af8417567a                                                                                                                              
+                2c1c3e28b212198be6c2b9f3de97326762ca09011159dca1c12ee8083cc7b07a                                                            904b42b4ad01563e81bcb4b9b43d70c97fd669e8cb7546b2728c8837a7fd9b9d                                                              
+        [2020-05-11 23:54:32.928] Alice -> Bob: 10                            [2020-05-11 23:54:32.965] Alice -> Bob: 1                            [2020-05-11 23:54:32.965] Charlie -> Dan: 6                            [2020-05-11 23:54:32.965] Dan -> Bob: 2                              
+}
+
+
+
+Chain2: 
+Block(0):
+{
+                                d9e8637e4d178404f58506a879f49ff1b75bf4b5c87ae35ccafeccebb0b6ea1b                                                                                                                              
+                [2020-05-11 23:54:32.928] Alice -> Bob: 10                                                                                                                            
+}
+|
+V
+Block(1):
+{
+                                0cbaf3c7b905892975a5bae362f0ee61a6e36229ea77c679051bd6af8417567a                                                                                                                              
+                2c1c3e28b212198be6c2b9f3de97326762ca09011159dca1c12ee8083cc7b07a                                                            904b42b4ad01563e81bcb4b9b43d70c97fd669e8cb7546b2728c8837a7fd9b9d                                                              
+        [2020-05-11 23:54:32.928] Alice -> Bob: 10                            [2020-05-11 23:54:32.965] Alice -> Bob: 1                            [2020-05-11 23:54:32.965] Charlie -> Dan: 6                            [2020-05-11 23:54:32.965] Dan -> Bob: 2                              
+}
+|
+V
+Block(2):
+{
+                                14d3b132edf492dd72b8d6e1dc34ba4f6d6c72919f215ffea7e7ee3d3dcd3bd0                                                                                                                              
+                0cbaf3c7b905892975a5bae362f0ee61a6e36229ea77c679051bd6af8417567a                                                            e2b4e93b305f986f0857fc04fc4fc0940854de69bf7e11ba846b1d24f04c1afb                                                              
+        2c1c3e28b212198be6c2b9f3de97326762ca09011159dca1c12ee8083cc7b07a                            904b42b4ad01563e81bcb4b9b43d70c97fd669e8cb7546b2728c8837a7fd9b9d                            f80e8dfd130ab2eec3407ac4a6b5195ce24b20fd33ba01fcc4c954c41a3c8a85                                                            
+    [2020-05-11 23:54:32.928] Alice -> Bob: 10            [2020-05-11 23:54:32.965] Alice -> Bob: 1            [2020-05-11 23:54:32.965] Charlie -> Dan: 6            [2020-05-11 23:54:32.965] Dan -> Bob: 2            [2020-05-11 23:54:33.017] Bob -> Alice: 4            [2020-05-11 23:54:33.017] Elle -> Alice: 9                                          
+}
+
+
+
+Chain3: 
+Block(0):
+{
+                                d9e8637e4d178404f58506a879f49ff1b75bf4b5c87ae35ccafeccebb0b6ea1b                                                                                                                              
+                [2020-05-11 23:54:32.928] Alice -> Bob: 10                                                                                                                            
+}
+|
+V
+Block(1):
+{
+                                0cbaf3c7b905892975a5bae362f0ee61a6e36229ea77c679051bd6af8417567a                                                                                                                              
+                2c1c3e28b212198be6c2b9f3de97326762ca09011159dca1c12ee8083cc7b07a                                                            904b42b4ad01563e81bcb4b9b43d70c97fd669e8cb7546b2728c8837a7fd9b9d                                                              
+        [2020-05-11 23:54:32.928] Alice -> Bob: 10                            [2020-05-11 23:54:32.965] Alice -> Bob: 1                            [2020-05-11 23:54:32.965] Charlie -> Dan: 6                            [2020-05-11 23:54:32.965] Dan -> Bob: 2                              
+}
+|
+V
+Block(2):
+{
+                                14d3b132edf492dd72b8d6e1dc34ba4f6d6c72919f215ffea7e7ee3d3dcd3bd0                                                                                                                              
+                0cbaf3c7b905892975a5bae362f0ee61a6e36229ea77c679051bd6af8417567a                                                            e2b4e93b305f986f0857fc04fc4fc0940854de69bf7e11ba846b1d24f04c1afb                                                              
+        2c1c3e28b212198be6c2b9f3de97326762ca09011159dca1c12ee8083cc7b07a                            904b42b4ad01563e81bcb4b9b43d70c97fd669e8cb7546b2728c8837a7fd9b9d                            f80e8dfd130ab2eec3407ac4a6b5195ce24b20fd33ba01fcc4c954c41a3c8a85                                                            
+    [2020-05-11 23:54:32.928] Alice -> Bob: 10            [2020-05-11 23:54:32.965] Alice -> Bob: 1            [2020-05-11 23:54:32.965] Charlie -> Dan: 6            [2020-05-11 23:54:32.965] Dan -> Bob: 2            [2020-05-11 23:54:33.017] Bob -> Alice: 4            [2020-05-11 23:54:33.017] Elle -> Alice: 9                                          
+}
+|
+V
+Block(3):
+{
+                                bc94ba2914b6dfb98fe74b24ec79b74adb88cae2bfd7fb59efa04c347a294ca7                                                                                                                              
+                0cbaf3c7b905892975a5bae362f0ee61a6e36229ea77c679051bd6af8417567a                                                            7eb996cbdab98afe7a80467a05fa043270acb696f15b6e98d0f625ef5e9bfec4                                                              
+        2c1c3e28b212198be6c2b9f3de97326762ca09011159dca1c12ee8083cc7b07a                            904b42b4ad01563e81bcb4b9b43d70c97fd669e8cb7546b2728c8837a7fd9b9d                            f80e8dfd130ab2eec3407ac4a6b5195ce24b20fd33ba01fcc4c954c41a3c8a85                            7afc79d460fa1915825d05b3a1cc887b818d4258eedf93c91ff3baa04e5b9a29                              
+    [2020-05-11 23:54:32.928] Alice -> Bob: 10            [2020-05-11 23:54:32.965] Alice -> Bob: 1            [2020-05-11 23:54:32.965] Charlie -> Dan: 6            [2020-05-11 23:54:32.965] Dan -> Bob: 2            [2020-05-11 23:54:33.017] Bob -> Alice: 4            [2020-05-11 23:54:33.017] Elle -> Alice: 9            [2020-05-11 23:54:33.026] Bob -> Alice: 5            [2020-05-11 23:54:33.027] Elle -> Alice: 3              
+}
+
+
+
+Chain0: 
+Block(0):
+{
+                                a944c99f5fcaf1f559aaaeb03bb203d5d041647389b10126920383012be96b46                                                                                                                              
+                [2020-05-12 00:09:45.708] Alice -> Bob: 10                                                                                                                            
+}
+
+
+
+Chain1: 
+Block(0):
+{
+                                a944c99f5fcaf1f559aaaeb03bb203d5d041647389b10126920383012be96b46                                                                                                                              
+                [2020-05-12 00:09:45.708] Alice -> Bob: 10                                                                                                                            
+}
+|
+V
+Block(1):
+{
+                                0a872c625e95bee154a6bc8542c2a60719b2f617b221034d9520c1fe27908c61                                                                                                                              
+                56f20884a3da2277ee92a56283ba4a9eb15d256f29595ab1cd79dd2455423b0d                                                            08958cda089797d7349ac0d0688411d72d91856f908e5aca4122c84856c8f16a                                                              
+        [2020-05-12 00:09:45.708] Alice -> Bob: 10                            [2020-05-12 00:09:45.741] Alice -> Bob: 1                            [2020-05-12 00:09:45.741] Charlie -> Dan: 6                            [2020-05-12 00:09:45.741] Dan -> Bob: 2                              
+}
+
+
+
+Chain2: 
+Block(0):
+{
+                                a944c99f5fcaf1f559aaaeb03bb203d5d041647389b10126920383012be96b46                                                                                                                              
+                [2020-05-12 00:09:45.708] Alice -> Bob: 10                                                                                                                            
+}
+|
+V
+Block(1):
+{
+                                0a872c625e95bee154a6bc8542c2a60719b2f617b221034d9520c1fe27908c61                                                                                                                              
+                56f20884a3da2277ee92a56283ba4a9eb15d256f29595ab1cd79dd2455423b0d                                                            08958cda089797d7349ac0d0688411d72d91856f908e5aca4122c84856c8f16a                                                              
+        [2020-05-12 00:09:45.708] Alice -> Bob: 10                            [2020-05-12 00:09:45.741] Alice -> Bob: 1                            [2020-05-12 00:09:45.741] Charlie -> Dan: 6                            [2020-05-12 00:09:45.741] Dan -> Bob: 2                              
+}
+|
+V
+Block(2):
+{
+                                55aadbfe292ea3a72917590ac64056ef1fc532aa67d5c54dd29b26541853f7b2                                                                                                                              
+                0a872c625e95bee154a6bc8542c2a60719b2f617b221034d9520c1fe27908c61                                                            ada6cb8d1c08d07321020ff3f73deb6f88242fb1c036d017ac6cc064ed0de83b                                                              
+        56f20884a3da2277ee92a56283ba4a9eb15d256f29595ab1cd79dd2455423b0d                            08958cda089797d7349ac0d0688411d72d91856f908e5aca4122c84856c8f16a                            df146aa61d6db62cb0bc818d617f55a9855ac4607be2c9fe9dde548b1e3cc5be                                                            
+    [2020-05-12 00:09:45.708] Alice -> Bob: 10            [2020-05-12 00:09:45.741] Alice -> Bob: 1            [2020-05-12 00:09:45.741] Charlie -> Dan: 6            [2020-05-12 00:09:45.741] Dan -> Bob: 2            [2020-05-12 00:09:45.796] Bob -> Alice: 4            [2020-05-12 00:09:45.796] Elle -> Alice: 9                                          
+}
+
+
+
+Chain3: 
+Block(0):
+{
+                                a944c99f5fcaf1f559aaaeb03bb203d5d041647389b10126920383012be96b46                                                                                                                              
+                [2020-05-12 00:09:45.708] Alice -> Bob: 10                                                                                                                            
+}
+|
+V
+Block(1):
+{
+                                0a872c625e95bee154a6bc8542c2a60719b2f617b221034d9520c1fe27908c61                                                                                                                              
+                56f20884a3da2277ee92a56283ba4a9eb15d256f29595ab1cd79dd2455423b0d                                                            08958cda089797d7349ac0d0688411d72d91856f908e5aca4122c84856c8f16a                                                              
+        [2020-05-12 00:09:45.708] Alice -> Bob: 10                            [2020-05-12 00:09:45.741] Alice -> Bob: 1                            [2020-05-12 00:09:45.741] Charlie -> Dan: 6                            [2020-05-12 00:09:45.741] Dan -> Bob: 2                              
+}
+|
+V
+Block(2):
+{
+                                55aadbfe292ea3a72917590ac64056ef1fc532aa67d5c54dd29b26541853f7b2                                                                                                                              
+                0a872c625e95bee154a6bc8542c2a60719b2f617b221034d9520c1fe27908c61                                                            ada6cb8d1c08d07321020ff3f73deb6f88242fb1c036d017ac6cc064ed0de83b                                                              
+        56f20884a3da2277ee92a56283ba4a9eb15d256f29595ab1cd79dd2455423b0d                            08958cda089797d7349ac0d0688411d72d91856f908e5aca4122c84856c8f16a                            df146aa61d6db62cb0bc818d617f55a9855ac4607be2c9fe9dde548b1e3cc5be                                                            
+    [2020-05-12 00:09:45.708] Alice -> Bob: 10            [2020-05-12 00:09:45.741] Alice -> Bob: 1            [2020-05-12 00:09:45.741] Charlie -> Dan: 6            [2020-05-12 00:09:45.741] Dan -> Bob: 2            [2020-05-12 00:09:45.796] Bob -> Alice: 4            [2020-05-12 00:09:45.796] Elle -> Alice: 9                                          
+}
+|
+V
+Block(3):
+{
+                                e298fcbb547388a8050099657e3347d7cbbd6cf390ec60446d6152c87f16506f                                                                                                                              
+                0a872c625e95bee154a6bc8542c2a60719b2f617b221034d9520c1fe27908c61                                                            a7d5581b10ffc4610496767b699187244aa7a771d8de341017d97151d2c9dfa8                                                              
+        56f20884a3da2277ee92a56283ba4a9eb15d256f29595ab1cd79dd2455423b0d                            08958cda089797d7349ac0d0688411d72d91856f908e5aca4122c84856c8f16a                            df146aa61d6db62cb0bc818d617f55a9855ac4607be2c9fe9dde548b1e3cc5be                            dc356268664246f3f40368b37dfc1e3439d5a87ec49d1e0ff7b05f3fa686b4ea                              
+    [2020-05-12 00:09:45.708] Alice -> Bob: 10            [2020-05-12 00:09:45.741] Alice -> Bob: 1            [2020-05-12 00:09:45.741] Charlie -> Dan: 6            [2020-05-12 00:09:45.741] Dan -> Bob: 2            [2020-05-12 00:09:45.796] Bob -> Alice: 4            [2020-05-12 00:09:45.796] Elle -> Alice: 9            [2020-05-12 00:09:45.799] Bob -> Alice: 5            [2020-05-12 00:09:45.799] Elle -> Alice: 3              
+}
+
+
+
